@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Suspiro profundo
+
+This log tracks the cryptographic history and versioning for the song **Suspiro profundo** (suspiro-profundo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T00:09:52.261746 | `v1` | `3469df9928295fed87bc315172fa7c9db8d32907b6a4fa6e12ce4381ae70a0c2` | `aee7bd121d1591a6d0177ca2bb5929d26cb9b0ce2a8ba2163bb8b9b4379918df` | `2026-06-16_suspiro-profundo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
